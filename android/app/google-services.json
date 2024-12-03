@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733204953333",
+    "project_id": "final-6aff4",
+    "storage_bucket": "final-6aff4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733204953333:android:8d0ce70f3dd9299cb3adbc",
+        "android_client_info": {
+          "package_name": "com.example.calm_aura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8i9dRiECDudL110Z2Rp38hX1EndzlNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
